@@ -1,6 +1,6 @@
 ![OWASP LOGO](images/owasp-logo.png)
 
-## ده مخاطه بحرانی امنیتی API
+## ده مخاطره بحرانی امنیتی API
 
 
 May 29th, 2019
