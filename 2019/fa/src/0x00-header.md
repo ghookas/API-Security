@@ -1,8 +1,7 @@
 ![OWASP LOGO](images/owasp-logo.png)
 
-## OWASP API Security Top 10 2019
+## ده مخاطه بحرانی امنیتی API
 
-The Ten Most Critical API Security Risks
 
 May 29th, 2019
 
