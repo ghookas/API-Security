@@ -1,54 +1,56 @@
-About OWASP
+درباره OWASP
 ===========
+پروژه عمومی امنیت نرم افزار های تحت وب (OWASP)  یک انجمن آزاد تخصصی است که به سازمانها امکان توسعه ، خرید و نگهداری برنامه ها و API های مورد اعتماد را می دهد. 
+(OWASP) 
 
-The Open Web Application Security Project (OWASP) is an open community dedicated
-to enabling organizations to develop, purchase, and maintain applications and
-APIs that can be trusted.
+در OWASP, موارد زیر به صورت رایگان و نا محدود پیدا خواهید کرد:
 
-At OWASP, you'll find free and open:
+* ابزار و استاندارد های امنیتی نرم افزار ها.
+* کتب مرجع در زمینی ارزیابی امنیتی نرم افزار ها - توسعه کد امن و بازبینی امنیتی کد
+* ارایه ها and [ویدپو ها][1].
+* [Cheat sheets][2] ترفند هایی در بسیاری از موضوعات رایج.
+* منابع و کنترل های امنیتی استاندارد.
+* [مقالات جهانی موجود][3].
+* تحقیقات پیشرفته.
+* گسترده [کنفرانس های جهانی][4].
+* [آدرس های ایمیل][5].
 
-* Application security tools and standards.
-* Complete books on application security testing, secure code development, and
-  secure code review.
-* Presentations and [videos][1].
-* [Cheat sheets][2] on many common topics.
-* Standard security controls and libraries.
-* [Local chapters worldwide][3].
-* Cutting edge research.
-* Extensive [conferences worldwide][4].
-* [Mailing lists][5].
+آشنایی بیشتر در: [https://www.owasp.org][6].
 
-Learn more at: [https://www.owasp.org][6].
+همه OWASP ابزار های, مستندات, ویدیو ها, ارایه ها, و مقالات مجانی هستند  و آزادانه در دسترس افرادی که علاقمند پیشرفت در زمینه امنیت نرم افزار هستند قرار گرفته است 
 
-All OWASP tools, documents, videos, presentations, and chapters are free and
-open to anyone interested in improving application security.
-
+ 
+ما طرفدار پرداختن به امنیت برنامه ها به عنوان یک مشکل مردم ، فرایند و فناوری هستیم
+ زیرا  اغلب روکردهای موثر در زمینه امنیت نرم افزار نیازمند پیشرفت در این حوزه است.
 We advocate approaching application security as a people, process, and
 technology problem, because the most effective approaches to application
 security require improvements in these areas.
 
+OWASP نوع جدیدی از سازمان است. استقلال ما از فشارهای تجاری به ما امکان می دهد اطلاعات بی طرفانه ، عملی و مقرون به صرفه در مورد امنیت برنامه ها ارائه دهیم.
 OWASP is a new kind of organization. Our freedom from commercial pressures
 allows us to provide unbiased, practical, and cost-effective information about
 application security.
 
+OWASP به هیچ شرکت فناوری وابسته نیست ، اگرچه ما از استفاده آگاهانه از فناوری امنیت تجاری پشتیبانی می کنیم. OWASP انواع مختلفی از منابع اطلاعاتی را به صورت مشارکتی ، شفاف و باز تولید می کند.
 OWASP is not affiliated with any technology company, although we support the
 informed use of commercial security technology. OWASP produces many types of
 materials in a collaborative, transparent, and open way.
 
+بنیاد OWASP نهادی غیرانتفاعی است که موفقیت طولانی مدت پروژه را تضمین می کند. تقریباً همه کسانی که با OWASP در ارتباط هستند داوطلب هستند ، از جمله هیئت مدیره OWASP ، رهبران فصل ، رهبران پروژه و اعضای پروژه. ما از تحقیقات امنیتی مبتکرانه با کمک های مالی و زیرساخت ها پشتیبانی می کنیم.
 The OWASP Foundation is the non-profit entity that ensures the project's
 long-term success. Almost everyone associated with OWASP is a volunteer,
 including the OWASP board, chapter leaders, project leaders, and project
 members. We support innovative security research with grants and infrastructure.
 
+به ما ملحق شوید!
 Come join us!
 
-## Copyright and License
+## حق نشر و مجوز
 
 ![license](images/license.png)
 
-Copyright © 2003-2019 The OWASP Foundation. This document is released under the
-[Creative Commons Attribution Share-Alike 4.0 license][7]. For any reuse or
-distribution, you must make it clear to others the license terms of this work.
+حق نشر برای بنیاد -- محفوظ است  © 2003-2019 The OWASP Foundation. این سند تحت مجوز منتشر شده است 
+[Creative Commons Attribution Share-Alike 4.0 license][7]. برای استفاده مجدد یا توزیع ، باید شرایط مجوز این کار را برای دیگران روشن کنید.
 
 [1]: https://www.youtube.com/user/OWASPGLOBAL
 [2]: https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
